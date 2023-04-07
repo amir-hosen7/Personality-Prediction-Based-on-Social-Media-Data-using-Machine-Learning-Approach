@@ -4,3 +4,5 @@
 
 # Model Training Process
 1. Use Personality Prediction(Google Colab).ipynb to train the model over this dataset.
+2. After training the dataset you can label your collected dataset using this model.
+3. Last part of this python code provided the labeling process.
